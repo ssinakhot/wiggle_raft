@@ -1,0 +1,13 @@
+{
+  "name": "WiggleRaft",
+  "author": "W.A.S.D",
+  "description": "Wiggleton's Party Pack",
+  "version": "1.0",
+  "license": "",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/YOUR-MOD-SLUG-HERE/version.txt",
+  "isModPermanent": true,
+  "excludedFiles": []
+}
